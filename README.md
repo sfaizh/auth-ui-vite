@@ -10,7 +10,7 @@ An example of a login page with protected routes, authentication via [Nest.JS Ba
 - **React Router v6**: Uses loaders (`authLoader`, `redirectIfAuthed`) for route protection.
 - **Cypress Tests**: Includes unit, integration, and end-to-end tests.
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 ├── public/
