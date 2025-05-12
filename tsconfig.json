@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "target": "ESNext",
+    "jsx": "react-jsx",
+    "types": [
+      "vite/client"
+    ],
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": [
+        "src/*"
+      ]
+    }
+  },
+  "include": [
+    "src"
+  ]
+}
