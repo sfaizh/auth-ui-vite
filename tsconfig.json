@@ -4,6 +4,11 @@
     "module": "ESNext",
     "target": "ESNext",
     "jsx": "react-jsx",
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
     "types": [
       "vite/client",
       "cypress"
